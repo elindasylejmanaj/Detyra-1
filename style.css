@@ -1,0 +1,19 @@
+table { background-color:rgb(206, 223, 223); margin-left:auto; 
+    margin-right:auto;}
+.Emri {color:grey; font-size: 25px; font-weight: bold; text-align: center; vertical-align:text-top;}
+.Position {color:rgba(128, 128, 128, 0.409); font-size: 15px; font-weight: bold;text-align: center; vertical-align:text-top;}
+.img {align-items: left; margin: 10px;}
+legend {font-size: 20px; color:black}
+h1{font-size:15px; text-align: center;}
+h2{font-size:15px; text-align:left;}
+a {font-size:18px}
+.firstdiv{text-align: center;}
+.button{background:rgb(143, 198, 180)}
+p{text-align:left}
+.hobbies{padding-left: 6%;text-align:left}
+.skills{padding-left: 6%;text-align:left}
+.contact{padding-left: 6%}
+
+   
+
+
